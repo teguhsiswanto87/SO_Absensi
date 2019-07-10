@@ -1,0 +1,8 @@
+1. di halaman admin kasih tanggal sama keterangan contohnya ada di gambar yg gua kirim
+2. sama footer perlu ga?
+
+jawaban:
+
+1.yak,
+2.ndak perlu, eh kasih info kelompok aja
+
